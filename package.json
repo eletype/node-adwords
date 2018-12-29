@@ -24,7 +24,7 @@
     "async": "^2.6.0",
     "google-auth-library": "^1.6.1",
     "lodash": "^4.17.5",
-    "moment": "^2.22.1",
+    "moment": "^2.23.0",
     "request": "^2.87.0",
     "soap": "^0.24.0",
     "xmlbuilder": "^10.0.0"
